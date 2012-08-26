@@ -1,3 +1,6 @@
+_distribution:
+    resource: "@GitonomyDistributionBundle/Resources/config/routing.yml"
+
 _assetic:
     resource: .
     type:     assetic
